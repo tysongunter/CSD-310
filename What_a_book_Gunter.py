@@ -1,7 +1,7 @@
 """ 
     Title: what_a_book.py
-    Author: Professor Krasso
-    Date: 27 July 2020
+    Author: Tyson Gunter
+    Date: 15 December 2023
     Description: WhatABook program; Console program that interfaces with a MySQL database
 """
 
