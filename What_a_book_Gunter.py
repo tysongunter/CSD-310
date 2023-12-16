@@ -5,12 +5,11 @@
     Description: WhatABook program; Console program that interfaces with a MySQL database
 """
 
-""" import statements """
+
 import sys
 import mysql.connector
 from mysql.connector import errorcode
 
-""" database config object """
 config = {
     "user": "whatabook_user",
     "password": "MySQL8IsGreat!",
